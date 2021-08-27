@@ -1,5 +1,5 @@
 ##### somatic_germline_overlap.R #####
-# Kuan-lin Huang @ WashU 2018
+# 
 # Find overlap of genes/variants for somatic/germline variants
 setwd("/Users/qingtao/Box Sync/GermlineSomatic/analysis/somatic_germline_overlap/")
 
